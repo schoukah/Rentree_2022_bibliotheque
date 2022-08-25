@@ -91,7 +91,7 @@ var APP_DATA = {
           "yaw": 2.901770782335502,
           "pitch": 0.5989165559800682,
           "title": "Indice!",
-          "text": "Une nouvelle famille, loin de la famille (Proverbe ivoirien)"
+          "text": "Une nouvelle famille, loin de la famille <a href=\"https://rentree-2022-asso-etudiante.netlify.app/\">(Proverbe ivoirien)</a>"
         }
       ]
     },
@@ -142,7 +142,7 @@ var APP_DATA = {
           "yaw": -3.058428722617572,
           "pitch": 0.284461183147819,
           "title": "Indice!",
-          "text": "Un pour tous, tous pour un ! (Alexandre Dumas)"
+          "text": "Un pour tous, tous pour un ! (<a href=\"https://rentree-2022-asso-etudiante.netlify.app/\">Alexandre Dumas</a>)"
         }
       ]
     }
