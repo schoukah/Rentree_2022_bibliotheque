@@ -386,6 +386,11 @@
     return null;
   }
 
+  function updateSceneName(scene) {
+    sceneNameElement.innerHTML = sanitize(scene.data.name);
+    window.marzipano_viewer = viewer;
+  }
+
   // Display the initial scene.
   switchScene(scenes[0]);
 

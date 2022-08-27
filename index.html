@@ -74,6 +74,11 @@
 
 <script src="data.js"></script>
 <script src="index.js"></script>
+<script>
+  document.getElementById('pano').addEventListener('click', function(e) {
+    console.log(marzipano_viewer.view().screenToCoordinates({ x: e.clientX, y: e.clientY }));
+  });
+  </script>
 
 </body>
 </html>
