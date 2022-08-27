@@ -101,8 +101,8 @@ var APP_DATA = {
           "text": "Une nouvelle famille, loin de la famille <a href=\"https://rentree-2022-asso-etudiante.netlify.app/\">(Proverbe ivoirien)</a>"
         }, 
         {
-          "yaw": 1.7322340099812914,
-          "pitch": 0.16312198276660617,
+          "yaw": 1.7083004385231906,
+          "pitch": 0.1668559538689216,
           "title": "Indice!",
           "text": "😝"
         }
