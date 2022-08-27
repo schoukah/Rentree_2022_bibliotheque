@@ -42,7 +42,14 @@ var APP_DATA = {
           "target": "2-bib-3-imprimante"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.5186916250144673,
+          "pitch": 0.549809984783284,
+          "title": "Indice!",
+          "text": "😝"
+        }
+      ]
     },
     {
       "id": "1-bib-2-bureau",
@@ -92,6 +99,12 @@ var APP_DATA = {
           "pitch": 0.5989165559800682,
           "title": "Indice!",
           "text": "Une nouvelle famille, loin de la famille <a href=\"https://rentree-2022-asso-etudiante.netlify.app/\">(Proverbe ivoirien)</a>"
+        }, 
+        {
+          "yaw": 1.7317052427718265,
+          "pitch": 0.19165555238625132,
+          "title": "Indice!",
+          "text": "😝"
         }
       ]
     },
